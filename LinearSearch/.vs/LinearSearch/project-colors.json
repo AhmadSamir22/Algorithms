@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8e927e18-bbb0-422a-8b78-2b8da7003c38": {
+      "ProjectGuid": "8e927e18-bbb0-422a-8b78-2b8da7003c38",
+      "DisplayName": "LinearSearch",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

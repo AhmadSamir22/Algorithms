@@ -1,0 +1,15 @@
+D:\Repository\Algorithms\LinearSearch\LinearSearch\bin\Debug\net6.0\LinearSearch.exe
+D:\Repository\Algorithms\LinearSearch\LinearSearch\bin\Debug\net6.0\LinearSearch.deps.json
+D:\Repository\Algorithms\LinearSearch\LinearSearch\bin\Debug\net6.0\LinearSearch.runtimeconfig.json
+D:\Repository\Algorithms\LinearSearch\LinearSearch\bin\Debug\net6.0\LinearSearch.dll
+D:\Repository\Algorithms\LinearSearch\LinearSearch\bin\Debug\net6.0\ref\LinearSearch.dll
+D:\Repository\Algorithms\LinearSearch\LinearSearch\bin\Debug\net6.0\LinearSearch.pdb
+D:\Repository\Algorithms\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.csproj.AssemblyReference.cache
+D:\Repository\Algorithms\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\Algorithms\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfoInputs.cache
+D:\Repository\Algorithms\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.AssemblyInfo.cs
+D:\Repository\Algorithms\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.csproj.CoreCompileInputs.cache
+D:\Repository\Algorithms\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.dll
+D:\Repository\Algorithms\LinearSearch\LinearSearch\obj\Debug\net6.0\ref\LinearSearch.dll
+D:\Repository\Algorithms\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.pdb
+D:\Repository\Algorithms\LinearSearch\LinearSearch\obj\Debug\net6.0\LinearSearch.genruntimeconfig.cache

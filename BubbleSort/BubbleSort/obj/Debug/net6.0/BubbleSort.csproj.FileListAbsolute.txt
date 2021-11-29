@@ -1,0 +1,15 @@
+D:\Repository\Algorithms\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.exe
+D:\Repository\Algorithms\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.deps.json
+D:\Repository\Algorithms\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.runtimeconfig.json
+D:\Repository\Algorithms\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.dll
+D:\Repository\Algorithms\BubbleSort\BubbleSort\bin\Debug\net6.0\ref\BubbleSort.dll
+D:\Repository\Algorithms\BubbleSort\BubbleSort\bin\Debug\net6.0\BubbleSort.pdb
+D:\Repository\Algorithms\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.AssemblyReference.cache
+D:\Repository\Algorithms\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repository\Algorithms\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfoInputs.cache
+D:\Repository\Algorithms\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.AssemblyInfo.cs
+D:\Repository\Algorithms\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.csproj.CoreCompileInputs.cache
+D:\Repository\Algorithms\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.dll
+D:\Repository\Algorithms\BubbleSort\BubbleSort\obj\Debug\net6.0\ref\BubbleSort.dll
+D:\Repository\Algorithms\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.pdb
+D:\Repository\Algorithms\BubbleSort\BubbleSort\obj\Debug\net6.0\BubbleSort.genruntimeconfig.cache
